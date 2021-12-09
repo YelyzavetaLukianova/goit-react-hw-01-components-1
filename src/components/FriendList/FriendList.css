@@ -1,0 +1,39 @@
+.Item {
+  display: flex;
+  align-items: center;
+  border: 1px solid #757575;
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
+
+.StatusOnline {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: seagreen;
+}
+
+.StatusOffline {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: violet;
+}
+
+.Avatar {
+  width: 100px;
+  margin: 0 auto;
+}
+
+.Name {
+  font-weight: 700;
+  text-align: 1.7;
+  text-align: center;
+}
+
+.Friend-list {
+  width: 330px;
+  margin: 0 auto;
+}

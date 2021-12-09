@@ -1,0 +1,13 @@
+.Transaction-history {
+  border: 1px solid #757575;
+  margin: 0 auto;
+}
+
+.Transaction-th {
+  border: 1px solid #757575;
+  width: 150px;
+}
+
+.Transaction-tbody {
+  text-align: center;
+}
